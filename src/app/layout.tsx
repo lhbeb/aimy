@@ -32,11 +32,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/images/cropped-Abir_logo_MAIN-32x32.png", sizes: "32x32" },
-      { url: "/images/cropped-Abir_logo_MAIN-192x192.png", sizes: "192x192" },
+      { url: "/images/favicon.png" },
     ],
     apple: [
-      { url: "/images/cropped-Abir_logo_MAIN-180x180.png" },
+      { url: "/images/favicon.png" },
     ],
   },
 };
